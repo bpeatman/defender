@@ -175,7 +175,7 @@ The final module the notes mention is `samexpa7` a bunch of explosion routines a
 	    -l bin/samexap7.lst -o bin/samexap7.o
 ```
 
-Eugene's notes are much less clear on how we go about assembling the reamining source files:
+Eugene's notes are much less clear on how we go about assembling the remaining source files:
 
 ```
 mess0.src
